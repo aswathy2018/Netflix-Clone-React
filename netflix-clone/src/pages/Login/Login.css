@@ -86,7 +86,7 @@
 }
 @media (max-width:500px) {
     .login{
-        padding: ispx 5%;
+        padding: 15px 5%;
     }
     .login-form{
         padding: 20px;
